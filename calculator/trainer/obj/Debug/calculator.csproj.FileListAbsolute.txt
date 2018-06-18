@@ -1,0 +1,14 @@
+D:\projects\machine learning\calculator\trainer\bin\Debug\calculator.exe.config
+D:\projects\machine learning\calculator\trainer\bin\Debug\calculator.exe
+D:\projects\machine learning\calculator\trainer\bin\Debug\calculator.pdb
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.dll
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Math.dll
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Neuro.dll
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Genetic.dll
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.xml
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Math.xml
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Neuro.xml
+D:\projects\machine learning\calculator\trainer\bin\Debug\AForge.Genetic.xml
+D:\projects\machine learning\calculator\trainer\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\projects\machine learning\calculator\trainer\obj\Debug\calculator.exe
+D:\projects\machine learning\calculator\trainer\obj\Debug\calculator.pdb
