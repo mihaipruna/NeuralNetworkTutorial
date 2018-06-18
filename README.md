@@ -10,6 +10,7 @@ The calculator loads the neural network and input data and generates output.
 The sample training and validation data is the sine function.
 
  Copyright (c) 2018 Mihai Pruna
+ http://www.progmodcon.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
